@@ -10,6 +10,7 @@ int f(int n)
     else
         return n*f(n-1);
 }
+
 main()
 {
     int n;

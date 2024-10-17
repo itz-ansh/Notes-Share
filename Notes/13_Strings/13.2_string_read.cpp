@@ -38,8 +38,6 @@ main( )
 
 
 
-
-
 /*
 In the code you provided, you do not need to use the & (address-of operator) in scanf() when reading a string (character array) like name. This is because the name of an array in C already acts as a pointer to its first element.
 

@@ -173,7 +173,8 @@ main()
 
 **Imp Points to Remember**
 
-a) If we define function before calling it, then no need of function prototype
+a) If we define function before calling it, then no need of function 
+   (laga bhi dogey toh koi dikkat nahi hai)
 
 b) Static variable or integer: Increment/Decrement value is considered.
 

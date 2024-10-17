@@ -107,3 +107,16 @@ int main()
   printf("%d",X);
 }
 */
+
+
+main()
+{
+    printf("Ansh \t\t\t\t\t Hello");
+}
+
+
+main()
+{
+    int a = 1;
+    printf("address of a = %u", &a);
+}
